@@ -1,0 +1,9 @@
+npm i 
+cp node_modules/jqvmap  public/plugins/jqvmap  -r
+cp node_modules/summernote  public/plugins/summernote  -r
+cp node_modules/owl.carousel public/plugins/owl.carousel -r
+cp node_modules/flag-icon public/plugins/flag-icon -r
+cp node_modules/chocolat public/plugins/chocolat -r
+cp node_modules/datatables public/plugins -r
+cp node_modules/datatables.net-bs4 public/plugins -r
+cp node_modules/datatables.net-select-bs4 public/plugins -r
