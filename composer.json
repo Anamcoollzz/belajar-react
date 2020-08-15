@@ -1,0 +1,13 @@
+{
+  "name": "anamcoollzz/belajar-react",
+  "description": "Hanya buat pembelajaran",
+  "authors": [
+    {
+      "name": "Anamcoollzz",
+      "email": "hairulanam21@gmail.com"
+    }
+  ],
+  "require": {
+    "vlucas/phpdotenv": "^5.1"
+  }
+}
